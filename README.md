@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/snowcoding/snowcoding.svg)](http://hits.dwyl.com/snowcoding/snowcoding)
+
 - 🔭 I’m currently working on projects at WalmartLabs
 - 🌱 I’m currently learning webpack, RedwoodJS, NextJS, JAMstack
 - 👯 I’m looking to collaborate on any of the above!
